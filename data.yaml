@@ -1,0 +1,5 @@
+
+train: /content/yolo_dataset/train/images
+val: /content/yolo_dataset/val/images
+nc: 1
+names: ['license_plate']
